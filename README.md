@@ -1,0 +1,1 @@
+This program uses an AVR128DB48 microcontroller to program the a temperature, pressure, and humidity sensor (MS8607) and a real time clock (DS3231) to display the time, temperature, humidity, pressure and date on an LCD.
